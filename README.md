@@ -1,4 +1,4 @@
 # SMART HOME UI x FLUTTER
 
-![smart_home_ui](https://user-images.githubusercontent.com/118524346/202872642-e95810f9-8c44-44f7-a084-f92e9569f036.jpg)
+![smart_home_ui](https://user-images.githubusercontent.com/118524346/202908894-21419ffe-41ca-4153-8b32-ad423405b307.jpg)
 
